@@ -1,5 +1,5 @@
-# UNIT-2-CW-PROJECT-_INDIAMART
-<h1>IndiaMart Clone</h1>
+# IndiaMart Clone
+
 <a href="https://indiamartcloned.netlify.app/"><p>View Demo<p/></a>
 <p>A web application for wholesale sellers showing there products information</p>
 
